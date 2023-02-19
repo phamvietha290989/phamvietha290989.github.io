@@ -11,6 +11,7 @@
 9. [Thiết kế và xây dựng corpus](https://phamvietha290989.github.io/)
 10.[Lý thuyết thế giới văn bản](https://phamvietha290989.github.io/)
 11.[Văn phạm chức năng](https://phamvietha290989.github.io/)
+12.[Lý thuyết báo chí](https://phamvietha290989.github.io/)
 ## Lập trình Python
 1. [Cơ bản](https://phamvietha290989.github.io/)
 2. [Nâng cao](https://phamvietha290989.github.io/)
