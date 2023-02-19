@@ -15,6 +15,16 @@
 ## Lập trình Python
 + [Cơ bản](https://phamvietha290989.github.io/)
 + [Nâng cao](https://phamvietha290989.github.io/)
+## Toán học cho Machine learning
++ [Đại số tuyến tính](https://phamvietha290989.github.io/)
++ [Giải tích](https://phamvietha290989.github.io/)
++ [Xác suất và thông kê](https://phamvietha290989.github.io/)
+## Machine learning và data science
++ [Các nguyên lý của machine learning](https://phamvietha290989.github.io/)
++ [Các nguyên lý của data science](https://phamvietha290989.github.io/)
+## Deep learning
++ [Nguyên lý](https://phamvietha290989.github.io/)
++ [Framework](https://phamvietha290989.github.io/)
 ## Xử lý ngôn ngữ tự nhiên
 + [Các nghiên cứu](https://phamvietha290989.github.io/)
 + [Ứng dụng](https://phamvietha290989.github.io/)
