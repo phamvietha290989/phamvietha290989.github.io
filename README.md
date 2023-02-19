@@ -7,6 +7,10 @@
 5. [Ngữ dụng học tiếng Việt](https://phamvietha290989.github.io/)
 6. [Phong cách học tiếng Việt](https://phamvietha290989.github.io/)
 7. [Tự sự học](https://phamvietha290989.github.io/)
+8. [Phân tích diễn ngôn](https://phamvietha290989.github.io/)
+9. [Thiết kế và xây dựng corpus](https://phamvietha290989.github.io/)
+10.[Lý thuyết thế giới văn bản](https://phamvietha290989.github.io/)
+11.[Văn phạm chức năng](https://phamvietha290989.github.io/)
 ## Lập trình Python
 1. [Cơ bản](https://phamvietha290989.github.io/)
 2. [Nâng cao](https://phamvietha290989.github.io/)
