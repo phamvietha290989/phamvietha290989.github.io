@@ -18,7 +18,7 @@
 7. [Phân thức hữu tỉ]()
 ## Ma trận - Định thức - Hệ phương trình tuyến tính
 1. [Định thức]()
-2. [Ma trận]]()
+2. [Ma trận]()
 3. [Ma trận nghịch đảo]()
 4. [Hệ phương trình tuyến tính]()
 5. [Hạng của ma trận - hệ phương trình tuyến tính tổng quát]()
