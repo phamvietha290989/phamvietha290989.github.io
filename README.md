@@ -15,6 +15,10 @@
 ## Lập trình Python
 + [Cơ bản](https://phamvietha290989.github.io/)
 + [Nâng cao](https://phamvietha290989.github.io/)
+## Toán cao cấp đại học
++ [Toán cao cấp 1](https://phamvietha290989.github.io/)
++ [Toán cao cấp 2](https://phamvietha290989.github.io/)
++ [Toán cao cấp 3](https://phamvietha290989.github.io/)
 ## Toán học cho Machine learning
 + [Đại số tuyến tính](https://phamvietha290989.github.io/)
 + [Giải tích](https://phamvietha290989.github.io/)
